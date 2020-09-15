@@ -1,0 +1,13 @@
+C:\Users\USUARIO\source\repos\TP1\bin\Debug\TP1.exe.config
+C:\Users\USUARIO\source\repos\TP1\bin\Debug\TP1.exe
+C:\Users\USUARIO\source\repos\TP1\bin\Debug\TP1.pdb
+C:\Users\USUARIO\source\repos\TP1\obj\Debug\TP1.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\TP1\obj\Debug\TP1.Inicio.resources
+C:\Users\USUARIO\source\repos\TP1\obj\Debug\TP1.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\TP1\obj\Debug\TP1.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\TP1\obj\Debug\TP1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\TP1\obj\Debug\TP1.exe
+C:\Users\USUARIO\source\repos\TP1\obj\Debug\TP1.pdb
+C:\Users\USUARIO\source\repos\TP1\obj\Debug\TP1.Ejercicio1.resources
+C:\Users\USUARIO\source\repos\TP1\obj\Debug\TP1.Ejercicio3.resources
+C:\Users\USUARIO\source\repos\TP1\obj\Debug\TP1.Ejercicio2.resources
